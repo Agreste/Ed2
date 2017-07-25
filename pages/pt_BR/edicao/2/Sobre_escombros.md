@@ -1,4 +1,6 @@
-template: article.html background: /static/img/1/criptopticon.jpg title: "SOBRE ESCOMBROS E BERINGELAS"
+template: article.html
+background: /static/img/1/criptopticon.jpg
+title: "SOBRE ESCOMBROS E BERINGELAS"
 
 ___Lívia Piccolo___
 

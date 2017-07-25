@@ -1,4 +1,6 @@
-template: article.html background: /static/img/1/criptopticon.jpg title: "O DESLOCAMENTO DA ARQUITETURA NOS FILMES DE VANGUARDA"
+template: article.html
+background: /static/img/1/criptopticon.jpg
+title: "O DESLOCAMENTO DA ARQUITETURA NOS FILMES DE VANGUARDA"
 
 ___Maureen Turim___
 
